@@ -4,7 +4,7 @@
 - 👀 I’m interested in publishing Kindle (both e and paper) books; blogging about those books and about their subjects
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on books
-- 📫 How to reach me les@lesdunaway.com
+- 📫 How to reach me les@dunawaygroupllc.com
 
 <!---
 lesatdgl/lesatdgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
